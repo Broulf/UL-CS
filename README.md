@@ -101,9 +101,26 @@ Our team is built on the principles of teamwork, dedication, and continuous impr
 - Solo queue games should be at a competitive skill level (e.g., SoloQ or above).
 - Solo queue is an opportunity for individual skill development.
 
-Remember, as a team member, you represent our team both in and out of the game. Uphold the team's values and maintain a positive and competitive spirit. Failure to abide by these rules may result in disciplinary action, including removal from the team.
+## 8. Team Changes
+## 8.1 Decision Making Process
+All significant team changes, including roster adjustments, coaching staff changes, and gameplay decisions, will be determined through a Majority Rule 2/3rds vote by every team member. This process ensures that major decisions are made collectively with the input and agreement of the entire team.
 
-By signing below, you acknowledge that you have read and understood the contents of this rulebook and agree to abide by its terms.
+## 8.2 Voting Procedure
+- A team meeting will be convened to discuss the proposed change.
+- Each team member will have an equal vote.
+- To pass a change, it must receive a 2/3rds majority vote from the team members present at the meeting.
+
+## 8.3 Communication to the Esports Executive Board
+- Once a team change is approved by the team members through the Majority Rule 2/3rds vote, the decision will be communicated to the Esports Executive Board.
+- The team manager or captain will be responsible for conveying the decision and any relevant details to the board.
+
+## 8.4 Transparency and Documentation
+- All discussions, decisions, and votes regarding team changes should be transparent and documented for future reference.
+- Meeting minutes or records of these decisions should be maintained for accountability and transparency purposes.
+
+By following this team change protocol, we ensure that every team member has a say in important decisions and that changes are made with the best interests of the team in mind.
+
+Remember, as a team member, you represent our team/school both in and out of the game. Uphold the team/school's values and maintain a positive and competitive spirit. Failure to abide by these rules may result in disciplinary action, including removal from the team.
 
 
 **Revision History:**
