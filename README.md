@@ -90,16 +90,16 @@ Our team is built on the principles of teamwork, dedication, and continuous impr
 
 ## 7. Gameplay Requirements
 ### 7.1 Weekly Game Quota
-- Each player is required to play a minimum of 5 games per week.
-- Games should be played on either Matchmaking or Faceit.
+- Each player is required to play a minimum of 5 games per week outside of practice, scrims, and matches.
+- Games should be played on either Valve's Matchmaking System or on Faceit.
 
 ### 7.2 Game Types
 - Games can be solo queue or played with other team members.
 - Mix up your game types to improve adaptability.
 
-### 7.3 Solo Queue Requirement
-- Solo queue games should be at a competitive skill level (e.g., SoloQ or above).
-- Solo queue is an opportunity for individual skill development.
+### 7.3 Queue Requirements
+- Games should be played at a competitive skill level (e.g., Premiere, Competitive, or Faceit).
+- These games are an opportunity for individual skill development.
 
 ## 8. Team Changes
 ## 8.1 Decision Making Process
