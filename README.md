@@ -105,12 +105,6 @@ Remember, as a team member, you represent our team both in and out of the game. 
 
 By signing below, you acknowledge that you have read and understood the contents of this rulebook and agree to abide by its terms.
 
-**Team Member Signature: ____________________ Date: ___________**
-**Team Member Signature: ____________________ Date: ___________**
-**Team Member Signature: ____________________ Date: ___________**
-**Team Member Signature: ____________________ Date: ___________**
-**Team Member Signature: ____________________ Date: ___________**
 
 **Revision History:**
-- Version 1.0 (Effective Date: [insert date])
-   - [List any updates or revisions to the rulebook here.]
+- Version 1.0 (Effective Date: 28 September 2023)
