@@ -1,4 +1,4 @@
-# Counter-Strike Team Rulebook
+# Counter-Strike Team Handbook
 
 ## Table of Contents
 1. **Introduction**
