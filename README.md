@@ -1,32 +1,32 @@
 # Counter-Strike Team Handbook
 
 ## Table of Contents
-1. **Introduction**
-2. **Team Philosophy**
-3. **Practice**
-   - 3.1 Practice Schedule
-   - 3.2 Practice Expectations
-   - 3.3 Skill Development
-4. **Scrim**
-   - 4.1 Scrim Scheduling
-   - 4.2 Scrim Conduct
-5. **Match Attendance**
-   - 5.1 Match Schedule
-   - 5.2 Match Preparation
-   - 5.3 Absence Policy
-6. **Player Behaviors During Matches**
-   - 6.1 Communication
-   - 6.2 Sportsmanship
-   - 6.3 Teamwork
-7. **Gameplay Requirements**
-   - 7.1 Weekly Game Quota
-   - 7.2 Game Types
-   - 7.3 Solo Queue Requirement
-8. **Team Changes**
-   - 8.1 Decision Making Process
-   - 8.2 Voting Procedure
-   - 8.3 Communication to the Esports Executive Board
-   - 8.4 Transparency and Documentation
+1. [**Introduction**](https://github.com/Broulf/ULL-CS/blob/main/README.md#1-introduction)
+2. [**Team Philosophy**](https://github.com/Broulf/ULL-CS/blob/main/README.md#2-team-philosophy)
+3. [**Practice**](https://github.com/Broulf/ULL-CS/blob/main/README.md#3-practice)
+   - [3.1 Practice Schedule](https://github.com/Broulf/ULL-CS/blob/main/README.md#31-practice-schedule)
+   - [3.2 Practice Expectations](https://github.com/Broulf/ULL-CS/blob/main/README.md#32-practice-schedule)
+   - [3.3 Skill Development](https://github.com/Broulf/ULL-CS/blob/main/README.md#33-practice-schedule)
+4. [**Scrim**](https://github.com/Broulf/ULL-CS/blob/main/README.md#4-scrim)
+   - [4.1 Scrim Scheduling](https://github.com/Broulf/ULL-CS/blob/main/README.md#41-scrim)
+   - [4.2 Scrim Conduct](https://github.com/Broulf/ULL-CS/blob/main/README.md#42-scrim)
+5. [**Match Attendance**](https://github.com/Broulf/ULL-CS/blob/main/README.md#5-match-attendance)
+   - [5.1 Match Schedule](https://github.com/Broulf/ULL-CS/blob/main/README.md#51-match-attendance)
+   - [5.2 Match Preparation](https://github.com/Broulf/ULL-CS/blob/main/README.md#52-match-attendance)
+   - [5.3 Absence Policy](https://github.com/Broulf/ULL-CS/blob/main/README.md#53-match-attendance)
+6. [**Player Behaviors During Matches**](https://github.com/Broulf/ULL-CS/blob/main/README.md#6-player-behaviors-during-matches)
+   - [6.1 Communication](https://github.com/Broulf/ULL-CS/blob/main/README.md#61-player-behaviors-during-matches)
+   - [6.2 Sportsmanship](https://github.com/Broulf/ULL-CS/blob/main/README.md#62-player-behaviors-during-matches)
+   - [6.3 Teamwork](https://github.com/Broulf/ULL-CS/blob/main/README.md#63-player-behaviors-during-matches)
+7. [**Gameplay Requirements**](https://github.com/Broulf/ULL-CS/blob/main/README.md#7-gameplay-requirements)
+   - [7.1 Weekly Game Quota](https://github.com/Broulf/ULL-CS/blob/main/README.md#71-gameplay-requirements)
+   - [7.2 Game Types](https://github.com/Broulf/ULL-CS/blob/main/README.md#72-gameplay-requirements)
+   - [7.3 Solo Queue Requirement](https://github.com/Broulf/ULL-CS/blob/main/README.md#73-gameplay-requirements)
+8. [**Team Changes**](https://github.com/Broulf/ULL-CS/blob/main/README.md#8-team-changes)
+   - [8.1 Decision Making Process](https://github.com/Broulf/ULL-CS/blob/main/README.md#81-team-changes)
+   - [8.2 Voting Procedure](https://github.com/Broulf/ULL-CS/blob/main/README.md#82-team-changes)
+   - [8.3 Communication to the Esports Executive Board](https://github.com/Broulf/ULL-CS/blob/main/README.md#83-team-changes)
+   - [8.4 Transparency and Documentation](https://github.com/Broulf/ULL-CS/blob/main/README.md#84-team-changes)
 
 ## 1. Introduction
 Welcome to our Counter-Strike team rulebook. This document outlines the guidelines, expectations, and standards for our team members to ensure a positive and competitive environment.
