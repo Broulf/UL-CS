@@ -124,10 +124,13 @@ All significant team changes, including roster adjustments, coaching staff chang
 - All discussions, decisions, and votes regarding team changes should be transparent and documented for future reference.
 - Meeting minutes or records of these decisions should be maintained for accountability and transparency purposes.
 
+---
+
 By following this team change protocol, we ensure that every team member has a say in important decisions and that changes are made with the best interests of the team in mind.
 
 Remember, as a team member, you represent our team/school both in and out of the game. Uphold the team/school's values and maintain a positive and competitive spirit. Failure to abide by these rules may result in disciplinary action, including removal from the team.
 
+---
 
 **Revision History:**
 - Version 1.0 (Effective Date: 28 September 2023)
