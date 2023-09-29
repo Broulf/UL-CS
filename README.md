@@ -56,6 +56,7 @@ Our team is built on the principles of teamwork, dedication, and continuous impr
 - Scrim schedules will be communicated by the team manager or captain.
 - Communicate any scheduling conflicts well in advance.
 - Punctuality is crucial; be ready to play at the scheduled time.
+- [TEAM GOOGLE CALENDAR](https://calendar.google.com/calendar/embed?src=09679e16ed0b55f9b032fa84f1c641ea6e754620b93ebbbf2912044b634508a9%40group.calendar.google.com&ctz=America%2FChicago)
 
 ### 4.2 Scrim Conduct
 - Treat scrims as seriously as official matches.
