@@ -1,4 +1,4 @@
-# Counter-Strike Team Handbook
+# University of Louisiana at Lafayette - Counter-Strike Team Handbook
 
 ## Table of Contents
 1. [**Introduction**](https://github.com/Broulf/ULL-CS/blob/main/README.md#1-introduction)
