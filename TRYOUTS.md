@@ -20,7 +20,7 @@ Teams will be half-randomized based on a **Buchholz Score** balancing method to 
 ## Tryout Information
 The teams will be organized pre-matches, there will be three scrim's played each night of tryouts utilizing every player available. If you have to sit a game out, do not worry, it is because we need every player to play at least one game.
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/Broulf/UL-CS/blob/main/cs2/Screenshot%202023-09-30%20111658.png?raw=true "Scrim Teams"
 
 ## Demos
 All match demos will be uploaded post-match to a centralized Google Drive folder. Every player will have access to this folder for review and analysis.
