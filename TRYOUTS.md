@@ -1,6 +1,6 @@
 # University of Louisiana at Lafayette Counter-Strike Team Tryouts
 
-Welcome to the Counter-Strike team tryouts! We're excited to see your skills in action. Please review the following details for the tryouts:
+Welcome to the Counter-Strike team tryouts! Please review the following details for the tryouts:
 
 ## Tryout Dates
 - **Dates:** October 1st and 2nd, 2023
