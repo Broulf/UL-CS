@@ -16,6 +16,9 @@ We will be using the **gamemode_scrim.cfg** file edited by Broulf for a fair and
 ## Team Selection
 Teams will be half-randomized based on a **Buchholz Score** balancing method to ensure competitive and fair matchups.
 
+## Tryout Information
+The teams will be organized pre-matches, there will be three scrim's played each night of tryouts utilizing every player available. If you have to sit a game out, do not worry, it is because we need every player to play at least one game.
+
 ## Demos
 All match demos will be uploaded post-match to a centralized Google Drive folder. Every player will have access to this folder for review and analysis.
 
