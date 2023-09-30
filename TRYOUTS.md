@@ -11,6 +11,8 @@ The server for the tryouts will be hosted by **Broulf**. Here are the server spe
 - **CPU:** AMD TR 2950X
 - **Memory:** 128GB DDR4 2666
 
+- Server IP: [server.broulf.org:27017](steam://connect/server.broulf.org:27017)
+
 We will be using the [**gamemode_scrim.cfg**](https://raw.githubusercontent.com/Broulf/UL-CS/main/cs2/gamemode_scrim.cfg) file edited by Broulf for a fair and balanced gaming experience.
 
 ## Team Selection
