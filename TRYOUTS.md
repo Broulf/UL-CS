@@ -23,6 +23,8 @@ The teams will be organized pre-matches, there will be three scrim's played each
 ## Demos
 All match demos will be uploaded post-match to a centralized Google Drive folder. Every player will have access to this folder for review and analysis.
 
+[DEMO FOLDER LINK](https://drive.google.com/drive/folders/1drHae9nliyQnvkvue4RMYOxe3FXdoiDM?usp=sharing)
+
 Please make sure you are available on the specified dates and times. We look forward to seeing your skills and having a great time during the tryouts!
 
 Good luck to all participants!
