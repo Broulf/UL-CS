@@ -6,6 +6,8 @@
 
 - **The Tournament is slated to start on December 15th at 5CST (Prelims), and end on December 16th (Semi- & Finals).**
 
+- **The prize pool will be set at $300 ($60 per player).**
+
 1. The software used is Counter-Strike 2 (Steam Version)
 
 2. It is a 5 (Five) Player Team Tournament
