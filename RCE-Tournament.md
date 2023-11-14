@@ -4,6 +4,8 @@
 
 - **Map pool, vetoes, finals structure, and other tournament rules are subject to vary depending on the event, venue, or Admins declaration**
 
+- **The Tournament is slated to start on December 15th at 5CST (Prelims), and end on December 16th (Semi- & Finals).**
+
 1. The software used is Counter-Strike 2 (Steam Version)
 
 2. It is a 5 (Five) Player Team Tournament
