@@ -7,7 +7,7 @@
    - Fill in the required information, including your email address, desired username, and password.
    - Complete the reCAPTCHA and click on "Continue" to proceed.
 
-   ![Image 1: Sign Up Page](https://cdn.discordapp.com/attachments/688564775998980128/1174575377432182854/Screenshot_2023-11-15_230252.png?ex=65681790&is=6555a290&hm=6cd54bc1050d2bfe01cb2f15ac5cb55c868d8f54f3d95fb006ac9d0d9856ebb8&)
+   ![Image 1: Sign Up Page](https://cdn.discordapp.com/attachments/688564775998980128/1174575610929094676/image.png?ex=656817c8&is=6555a2c8&hm=065943f5b5a99cc20f4ffbdcaee11f6665cae98e45a86342f8c3c0f74784f959&)
 
 ---
 
