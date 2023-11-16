@@ -1,4 +1,4 @@
-![image](https://github.com/Broulf/UL-CS/assets/66291288/6776a4fa-5171-4513-8373-ecb0c1a8ff56)![image](https://github.com/Broulf/UL-CS/assets/66291288/55f173c8-41eb-4d26-ac8b-a7f316068b61)# Step-by-Step Guide: Creating a FACEIT Account and Registering CS2
+# Step-by-Step Guide: Creating a FACEIT Account and Registering CS2
 
 ## 1. **Create a FACEIT Account:**
 
