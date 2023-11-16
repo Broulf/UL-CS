@@ -5,9 +5,10 @@
    - Visit [faceit.com](https://www.faceit.com/en/signup) in your web browser.
    - Click on the "Sign Up" button to create a new account.
    - Fill in the required information, including your email address, desired username, and password.
-   - Complete the reCAPTCHA and click on "Continue" to proceed.
+   - Complete the Account Creation and click on "Continue" to proceed.
 
    ![Image 1: Sign Up Page](https://cdn.discordapp.com/attachments/688564775998980128/1174575610929094676/image.png?ex=656817c8&is=6555a2c8&hm=065943f5b5a99cc20f4ffbdcaee11f6665cae98e45a86342f8c3c0f74784f959&)
+   ![Image 2: Account Creation Page](https://cdn.discordapp.com/attachments/688564775998980128/1174575925401243648/image.png?ex=65681813&is=6555a313&hm=c960f340a737d07d6886e479fda378bb05c9802e924398b82725b94560567594&)
 
 ---
 
