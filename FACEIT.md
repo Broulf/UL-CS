@@ -2,7 +2,7 @@
 
 ## 1. **Create a FACEIT Account:**
 
-   - Visit [faceit.com](https://faceit.com) in your web browser.
+   - Visit [faceit.com](https://www.faceit.com/en/signup) in your web browser.
    - Click on the "Sign Up" button to create a new account.
    - Fill in the required information, including your email address, desired username, and password.
    - Complete the reCAPTCHA and click on "Continue" to proceed.
