@@ -48,6 +48,8 @@
 
 Congratulations! You are now ready to join the tournament as a solo player, or create your team. Enjoy your gaming experience! 🎮🚀
 
+---
+
 # IF YOU ARE CREATING A TEAM CONTINUE READING:
 
 ## 1. **Create a FACEIT Team:**
