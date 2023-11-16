@@ -33,11 +33,9 @@
 
 ## 4. **Link CS2 to Your FACEIT Account:**
 
-   - Click on the "Register CS2" button.
-   - Follow the prompts to link Counter-Strike 2 to your FACEIT account.
+   - Click on the "CONNECT STEA," button.
+   - Follow the prompts to link your Steam account to your FACEIT account.
    - Confirm the game registration to complete the process.
-
-   ![Image 5: Register CS2](image5.png)
 
 ---
 
@@ -45,9 +43,7 @@
 
    - Your FACEIT account is now set up, and CS2 is registered.
    - Explore the platform, join tournaments, and connect with the gaming community.
-
-   ![Image 6: FACEIT Dashboard](image6.png)
-
+   - 
 ---
 
 Congratulations! You are now ready to join the tournament as a solo player, or create your team. Enjoy your gaming experience! 🎮🚀
