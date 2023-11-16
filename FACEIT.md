@@ -33,7 +33,7 @@
 
 ## 4. **Link CS2 to Your FACEIT Account:**
 
-   - Click on the "CONNECT STEA," button.
+   - Click on the "CONNECT STEAM" button.
    - Follow the prompts to link your Steam account to your FACEIT account.
    - Confirm the game registration to complete the process.
 
@@ -43,7 +43,7 @@
 
    - Your FACEIT account is now set up, and CS2 is registered.
    - Explore the platform, join tournaments, and connect with the gaming community.
-   - 
+     
 ---
 
 Congratulations! You are now ready to join the tournament as a solo player, or create your team. Enjoy your gaming experience! 🎮🚀
