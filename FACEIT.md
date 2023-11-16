@@ -50,4 +50,6 @@
 
 ---
 
-Congratulations! You've successfully created a FACEIT account and registered Counter-Strike 2. Now you're ready to dive into the world of competitive gaming on FACEIT. Enjoy your gaming experience! 🎮🚀
+Congratulations! You are now ready to join the tournament as a solo player, or create your team. Enjoy your gaming experience! 🎮🚀
+
+# IF YOU ARE CREATING A TEAM CONTINUE READING:
