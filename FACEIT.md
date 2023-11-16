@@ -59,3 +59,22 @@ Congratulations! You are now ready to join the tournament as a solo player, or c
 
    ![Image 6: Create Team](https://cdn.discordapp.com/attachments/688564775998980128/1174578265059495997/image.png?ex=65681a40&is=6555a540&hm=4524074845cafa1c3c9b8665ec86afcf8d307ffaf1b68c42f83de2dd9abd7ff2&)
    ![Image 7: Create Team Box](https://cdn.discordapp.com/attachments/688564775998980128/1174578212257402931/image.png?ex=65681a34&is=6555a534&hm=97c4bfb4e5bc3cace886b1c0b19b4e51be2c331bd500e24f8aa2590011bc23cc&)
+
+---
+
+## 2. **Add Players:**
+
+   - Have your teammates either add you on FACEIT, or send you links to their FACEIT account.
+   - When you have made sure all of your teammates have you added as a friend, go to the settings for the team.
+   - Scroll down and select "ADD MEMBERS+"
+   - Proceed to look up and add all players on your team.
+   - Players MUST accept the team invites.
+
+---
+
+## 3. **Register the Team:**
+   
+   - Using this link: https://www.faceit.com/en/championship/f59167f7-7bbe-4096-b377-98789a44c5f7/Ragin'%20Cajuns%20Esports%20-%20Online%20CS2%20Tournament
+   - Select the "TEAM" option and select your team.
+   - Select all members, ignore the coach and substitute option if N/A.
+   - Finish the registration.
