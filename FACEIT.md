@@ -1,4 +1,4 @@
-# Step-by-Step Guide: Creating a FACEIT Account and Registering CS2
+![image](https://github.com/Broulf/UL-CS/assets/66291288/6776a4fa-5171-4513-8373-ecb0c1a8ff56)![image](https://github.com/Broulf/UL-CS/assets/66291288/55f173c8-41eb-4d26-ac8b-a7f316068b61)# Step-by-Step Guide: Creating a FACEIT Account and Registering CS2
 
 ## 1. **Create a FACEIT Account:**
 
@@ -12,34 +12,26 @@
 
 ---
 
-## 2. **Verify Your Email:**
+## 2. **OPTIONAL: Verify Your Email**
 
    - Check your email inbox for a verification message from FACEIT.
-   - Click on the verification link provided in the email to confirm your account.
+   - Copy the code sent to your email and paste it into the box on FACEIT.
 
-   ![Image 2: Verification Email](image2.png)
-
----
-
-## 3. **Log into Your FACEIT Account:**
-
-   - Return to [faceit.com](https://faceit.com).
-   - Click on "Log In" and enter your email and password.
-
-   ![Image 3: Log In Page](image3.png)
+   ![Image 3: Verification Email](https://cdn.discordapp.com/attachments/688564775998980128/1174576295208820747/image.png?ex=6568186b&is=6555a36b&hm=36130202400a02adca4505892b8a7b7c08b00b118e26867430ea21750897fd00&)
+   ![Image 4: Verification Code Box](https://cdn.discordapp.com/attachments/688564775998980128/1174576677716770877/image.png?ex=656818c6&is=6555a3c6&hm=a3772aa55463a16a56a74f9fec39691ee4dd08f1134bcf98d0722b053b51cd6c&)
 
 ---
 
-## 4. **Access the CS2 Game Registration Page:**
+## 3. **Access the CS2 Game Registration Page:**
 
    - Go to [CS2 Registration](https://www.faceit.com/en/register-game/cs2).
    - Make sure you are logged in to your FACEIT account.
 
-   ![Image 4: CS2 Registration](image4.png)
+   ![Image 5: CS2 Registration](https://cdn.discordapp.com/attachments/688564775998980128/1174576864027750400/image.png?ex=656818f2&is=6555a3f2&hm=1c235e260c8660ccf2c6964cf60af9561e4a046896627e1f61b8101a1dd90772&)
 
 ---
 
-## 5. **Link CS2 to Your FACEIT Account:**
+## 4. **Link CS2 to Your FACEIT Account:**
 
    - Click on the "Register CS2" button.
    - Follow the prompts to link Counter-Strike 2 to your FACEIT account.
@@ -49,7 +41,7 @@
 
 ---
 
-## 6. **Congratulations! You're Ready to Play:**
+## 5. **Congratulations! You're Ready to Play:**
 
    - Your FACEIT account is now set up, and CS2 is registered.
    - Explore the platform, join tournaments, and connect with the gaming community.
