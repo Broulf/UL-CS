@@ -35,6 +35,7 @@
 # Team Seeding and Balancing
 
 - Each player will have their Valorant ranks converted to a measurable ELO rating, according to the following layout:
+
 | Rank         | Rating     |
 |--------------|------------|
 | Iron 1       | 100        |
