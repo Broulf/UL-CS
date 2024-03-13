@@ -18,7 +18,7 @@
 
 # Restrictions
 
-- RCE follows the same map pool as the Valorant Champions Tour. As of August 2023, Fracture and Pearl have been removed from the VCT map pool and are not allowed as map picks.
+- RCE follows the same map pool as the Valorant Champions Tour.
 - These are the current Maps to be allowed in the Tournament
     - Ascent
     - Bind
