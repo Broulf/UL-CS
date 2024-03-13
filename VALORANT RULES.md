@@ -36,21 +36,21 @@
 
 - Each player will have their Valorant ranks converted to a measurable ELO rating, according to the following layout:
 
-| Rank         | Rating     | Rank         | Rating     |
-|--------------|------------|--------------|------------|
-| Iron 1       | 100        | Bronze 1     | 400        |
-| Iron 2       | 200        | Bronze 2     | 500        |
-| Iron 3       | 300        | Bronze 3     | 600        |
-| Silver 1     | 700        | Gold 1       | 1000       |
-| Silver 2     | 800        | Gold 2       | 1100       |
-| Silver 3     | 900        | Gold 3       | 1200       |
-| Platinum 1   | 1300       | Diamond 1    | 1600       |
-| Platinum 2   | 1400       | Diamond 2    | 1700       |
-| Platinum 3   | 1500       | Diamond 3    | 1800       |
-| Ascendant 1  | 1900       | Immortal 1   | 2200       |
-| Ascendant 2  | 2000       | Immortal 2   | 2300       |
-| Ascendant 3  | 2100       | Immortal 3   | 2400       |
-| Radiant      | 2500 + RR Rating |              |            |
+<> | Rank         | Rating     | Rank         | Rating     |
+<> |--------------|------------|--------------|------------|
+<> | Iron 1       | 100        | Bronze 1     | 400        |
+<> | Iron 2       | 200        | Bronze 2     | 500        |
+<> | Iron 3       | 300        | Bronze 3     | 600        |
+<> | Silver 1     | 700        | Gold 1       | 1000       |
+<> | Silver 2     | 800        | Gold 2       | 1100       |
+<> | Silver 3     | 900        | Gold 3       | 1200       |
+<> | Platinum 1   | 1300       | Diamond 1    | 1600       |
+<> | Platinum 2   | 1400       | Diamond 2    | 1700       |
+<> | Platinum 3   | 1500       | Diamond 3    | 1800       |
+<> | Ascendant 1  | 1900       | Immortal 1   | 2200       |
+<> | Ascendant 2  | 2000       | Immortal 2   | 2300       |
+<> | Ascendant 3  | 2100       | Immortal 3   | 2400       |
+<> | Radiant      | 2500 + RR Rating |              |            |
 
 | Rank         | Rating     | Rank         | Rating     | Rank         | Rating     | Rank         | Rating     |
 |--------------|------------|--------------|------------|--------------|------------|--------------|------------|
