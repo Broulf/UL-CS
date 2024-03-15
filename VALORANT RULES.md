@@ -82,3 +82,18 @@
 # Scheduling/Forfeits
 
 - The first game of each round must begin no later than 15 minutes after the default starting time. Scheduling changes and/or forfeits must be reported by the team captain(s) before the match begins.
+
+# Match Groups
+
+- All matches will be played according to the following chart:
+
+| Group       | Match 1               | Match 2               |
+|-------------|-----------------------|-----------------------|
+| Group One   | Match One (Streamed) | Match Two             |
+| Group Two   | Match Three (Streamed) | Match Four          |
+| Group Three | Match Five (Streamed)| Match Six             |
+| Group Four  | Match Seven           | Match Eight (Streamed)|
+| Group Five  | Match Nine            | Match Ten (Streamed) |
+| Group Six   | Match Eleven (Streamed) | Match Twelve        |
+
+
