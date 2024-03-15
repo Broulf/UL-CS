@@ -46,6 +46,9 @@
 | Platinum 3   | 1500       | Diamond 3    | 1800       | Ascendant 3  | 2100       | Immortal 3   | 2400       |
 | Radiant      | 2500 + RR Rating |              |            |              |            |              |            |
 
+- After confirming every players rank, here is the updated Team Balancing and ELO Calculation sheet:
+![ELO CALCULATIONS](https://cdn.discordapp.com/attachments/899516531745107998/1218207825407250564/image.png?ex=6606d372&is=65f45e72&hm=c75d0e3773f66dff2d0dea61c0b00451870a520b565af63b64c65e5122f4a59c&)
+
 # Home/Away Coin Flip during Regular Season
 
 - The home team is always the upper seeded team.
